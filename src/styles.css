@@ -1,0 +1,9 @@
+html, body{
+    margin: 0;
+    background-color: #e60b0b;
+}
+img{
+    width: 900px;
+    opacity: 0.5; /* 0 es transparente y 1 es opaco */
+
+}
